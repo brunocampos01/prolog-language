@@ -1,0 +1,6 @@
+Trabalho 1 – Parte A (entrega pelo Moodle)
+Crie uma base de conhecimento, em Prolog, para a representação da
+matriz curricular, por fase, e a cadeia de pré-requisitos de um curso
+da UFSC (verifique seu curso selecionado no enunciado do Moodle).
+
+OBS: AULA 02, slide 40
