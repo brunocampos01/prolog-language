@@ -1,8 +1,3 @@
-# learning-prolog
-Linguagem de programação vista nas matérias:
- - Paradigmas da computação INE5416
- - Sistemas inteligentes INE5633
- 
  ## Install
  #### Prerequisites for Debian based systems 
  `sudo apt-get install \
