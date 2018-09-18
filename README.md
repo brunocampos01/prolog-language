@@ -1,5 +1,5 @@
 # learning-prolog
-Liguagem de programação vista nas matérias:
+Linguagem de programação vista nas matérias:
  - Paradigmas da computação INE5416
  - Sistemas inteligentes INE5633
  
