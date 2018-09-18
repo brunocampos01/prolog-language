@@ -1,11 +1,10 @@
 # learning-prolog
 Liguagem de programação vista nas matérias:
- - Paradigmas da computação
- - Sistemas inteligentes
+ - Paradigmas da computação INE5416
+ - Sistemas inteligentes INE5633
  
- 
- # Install
- ### Prerequisites for Debian based systems 
+ ## Install
+ #### Prerequisites for Debian based systems 
  `sudo apt-get install \
         build-essential autoconf curl chrpath pkg-config \       
         ncurses-dev libreadline-dev libedit-dev \        
@@ -22,4 +21,5 @@ Liguagem de programação vista nas matérias:
         libyaml-dev \
         openjdk-8-jdk junit`
      
-### Download and install interpreter: http://www.swi-prolog.org/build/unix.html
+ - Download and install interpreter: http://www.swi-prolog.org/build/unix.html
+ - Interpreter online: https://swish.swi-prolog.org/
