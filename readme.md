@@ -8,21 +8,21 @@ A programação lógica se basea em 3 princípios:
 # A linguagem PROLOG
 
 <img src="sistema_prolog.png" />
- - **Interface**: permite que o usuário entre com premissas codificadas em
+ <p> - Interface: permite que o usuário entre com premissas codificadas em
 uma linguagem lógica e faça consultas para extrair conclusões destas
-premissas
- - **Motor de inferência**: atualiza a base de conhecimento com
+premissas</p>
+<p> - Motor de inferência: atualiza a base de conhecimento com
 premissas fornecidas pelo usuário e faz inferências para extrair
-informações implı́citas
- - **Base de conhecimento**: armazena fatos e regras, fornecidas pelo usuário. 
+informações implı́citas.</p>
+<p> - Base de conhecimento: armazena fatos e regras, fornecidas pelo usuário.</p>
  Ex)
 
 **FATOS**
 
-`progenitor(boris, jane).
-progenitor(boris, marcia).
-progenitor(adelia, jane).
-progenitor(jane, tiago).`
+`progenitor(boris, jane).`<br/>
+`progenitor(boris, marcia).`<br/>
+`progenitor(adelia, jane).`<br/>
+`progenitor(jane, tiago).`<br/>
  
 
 **REGRAS**
