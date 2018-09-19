@@ -1,1 +1,0 @@
-<img src="parte_a.png" />

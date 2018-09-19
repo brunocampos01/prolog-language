@@ -27,4 +27,6 @@ progenitor(jane, tiago).`
 
 **REGRAS**
 
-`avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).`
+`avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).`<br/>
+
+<img src="exemplo_sintaxe.png" />
