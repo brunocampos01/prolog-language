@@ -2,6 +2,3 @@
 %Generate database with date
 
 data(2019-06-30).
-data(2019-06-30).
-data(2019-06-30).
-data(2019-06-30).
