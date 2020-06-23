@@ -1,11 +1,11 @@
-# Paradigma lógico (declarativo)
+# Logical Paradigm (declarative)
 
 A programação lógica se basea em 3 princípios:
  * linguagem formal para representação de conhecimento
  * regras de inferência para manipulação de conhecimento
  * estratégia de busca para controle de inferências
 
-# A linguagem PROLOG
+# PROLOG Language
 
 <img src="sistema_prolog.png" />
  <p> - Interface: permite que o usuário entre com premissas codificadas em
@@ -17,7 +17,7 @@ informações implı́citas.</p>
 <p> - Base de conhecimento: armazena fatos e regras, fornecidas pelo usuário.</p>
  Ex)
 
-**FATOS**
+**FACTS**
 
 `progenitor(boris, jane).`<br/>
 `progenitor(boris, marcia).`<br/>
@@ -25,11 +25,34 @@ informações implı́citas.</p>
 `progenitor(jane, tiago).`<br/>
  
 
-**REGRAS**
+**RULES**
 
 `avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).`<br/>
 
 <img src="exemplo_sintaxe.png" />
 
+### Requirements
+Prolog
+```
+sudo apt-get install software-properties-common
+
+sudo apt-add-repository ppa:swi-prolog/stable
+sudo apt-get update
+sudo apt-get install swi-prolog
+```
+
+#### References
+- [Prolog Documentation](https://www.swi-prolog.org/)
+
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+#### Author
+<a href="mailto:brunocampos01@gmail.com" target="_blank"><img class="" src="https://github.com/brunocampos01/devops/blob/master/images/gmail.png" width="28"></a>
+<a href="https://github.com/brunocampos01" target="_blank"><img class="ai-subscribed-social-icon" src="https://github.com/brunocampos01/devops/blob/master/images/github.png" width="30"></a>
+<a href="https://www.linkedin.com/in/brunocampos01/" target="_blank"><img class="ai-subscribed-social-icon" src="https://github.com/brunocampos01/devops/blob/master/images/linkedin.png" width="30"></a>
+Bruno Aurélio Rôzza de Moura Campos 
+
+---
+
+#### Copyright
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
