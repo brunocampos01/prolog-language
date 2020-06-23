@@ -7,7 +7,7 @@ A programação lógica se basea em 3 princípios:
 
 # PROLOG Language
 
-<img src="sistema_prolog.png" />
+<img src="img/sistema_prolog.png" />
  <p> - Interface: permite que o usuário entre com premissas codificadas em
 uma linguagem lógica e faça consultas para extrair conclusões destas
 premissas</p>
@@ -29,7 +29,7 @@ informações implı́citas.</p>
 
 `avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).`<br/>
 
-<img src="exemplo_sintaxe.png" />
+<img src="img/exemplo_sintaxe.png" />
 
 ### Requirements
 Prolog

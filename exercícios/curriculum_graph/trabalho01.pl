@@ -189,5 +189,3 @@ temprecomumsaopre(F, D1, D2) :- precomum(D1, D2, PR), saopre(F, PR).
 
 %questao7 - nao tem prerequisitos
 proposta(F, D) :- fase(_, F), nome(_, D). 
-
-
