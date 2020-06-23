@@ -41,6 +41,8 @@ sudo apt-get update
 sudo apt-get install swi-prolog
 ```
 
+---
+
 #### References
 - [Prolog Documentation](https://www.swi-prolog.org/)
 
