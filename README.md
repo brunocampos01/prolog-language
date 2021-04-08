@@ -6,7 +6,7 @@ A programação lógica se basea em 3 princípios:
  * regras de inferência para manipulação de conhecimento
  * estratégia de busca para controle de inferências
 
-# PROLOG Language
+# Prolog Language
 
 <img src="img/sistema_prolog.png" />
  <p> - Interface: permite que o usuário entre com premissas codificadas em
