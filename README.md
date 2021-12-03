@@ -32,9 +32,8 @@ informações implı́citas.</p>
 
 <img src="img/exemplo_sintaxe.png" />
 
-### Requirements
-Prolog
-```
+### Intallation
+```sh
 sudo apt-get install software-properties-common
 
 sudo apt-add-repository ppa:swi-prolog/stable
